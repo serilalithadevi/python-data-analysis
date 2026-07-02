@@ -69,7 +69,7 @@ The notebook contains the complete workflow, including:
 
 The report documents the complete methodology, analysis, visualizations, findings, recommendations, and conclusions.
 
-📑 **Project Report:** [View Report](https://github.com/serilalithadevi/python-data-analysis/blob/main/Netflix_Movies_and_TV_Shows_Analysis_Report.pptx)
+📑 **Project Report:** [View PDF](https://github.com/serilalithadevi/python-data-analysis/blob/main/Netflix_Movies_and_TV_Shows_Analysis_Report.pdf)
 
 > **Note:** Download the PowerPoint presentation to view all slides with full formatting and charts.
 
